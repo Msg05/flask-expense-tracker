@@ -51,12 +51,7 @@ powerful expense tracking, analysis and visualization features. It also allows t
             js/
                 script.js
     ```
-
-## Installation
-1. Clone the repository: `git clone https://github.com/santos-k/Flask_Expense_App`
-2. Install the required packages: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
-
+    
 ## Features
 - User-friendly login and registration system that ensures secure access to the application. Users can log in with their correct credentials or register for a new account.
 - A comprehensive home page that provides an overview of the user's records, statistics, and data visualization tools to help the user understand their expenses, and add new records.
@@ -192,16 +187,6 @@ It helps to maintain the security of the application by terminating the session 
 This can also help to reduce the risk of session hijacking and ensures that only authorized users have access to the sensitive information. 
 The time of inactivity can be configured as per the requirement, but the default settings is 5 minutes. 
 The user also will be prompted with a message before session termination so that he can save any unsaved data.
-
-## Deployment on Google Cloud(GCP)
-- Follow the step by step deployment [process](https://github.com/santos-k/Notes/blob/main/Deploy_Portfolio_on_GCP.md)
-
-
-## Contributing
-We welcome contributions to Expense App! If you would like to contribute.
-
-## License
-Expense App is open-sourced under the MIT license.
 
 ## Conclusion
 Expense App is a powerful and user-friendly expense tracking application that helps users to effectively manage their financial transactions and reach their financial goals. The application provides a comprehensive and easy-to-use interface that allows users to record, track, and analyze their expenses. With advanced data visualization and analysis tools, users can gain a deeper understanding of their financial data and make informed financial decisions. The application also features a secure login and registration system, a user-friendly profile management system, and a convenient contact page for support and feedback. By utilizing the features and capabilities of Expense App, users can take control of their finances and achieve financial success.
