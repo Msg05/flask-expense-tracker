@@ -1,29 +1,14 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/40932902/211549885-ce3b5578-bbfa-401a-8d78-944d91d588b1.png">
     <h1 align="center">Flask Expense Tracker WebApp</h1>
- 
 </p>
 
 <p align="center">
-    <a href="https://expensestrackerapp-ysma7ol4bq-em.a.run.app/">View Demo</a>
-    ·
-    <a href="https://github.com/santos-k/Flask_Expense_App/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/Flask_Expense_App/issues/new/choose">Request Feature</a>
-    ·
-    <a href="https://github.com/anuraghazra/Flask_Expense_App/discussions">Ask Question</a>
-  </p>
-
-<p align="center">
-  <a href="https://www.python.org/downloads/release/python-310/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg"></a>
+    🔗 <a href="https://flask-expense-tracker-f9tz.onrender.com" target="_blank">
+        <strong>View Live Demo</strong>
+    </a>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Flask-2.2-blue">
-    <img src="https://img.shields.io/badge/Plotly-5.11-blue">
-    <img src="https://img.shields.io/github/repo-size/santos-k/Flask_Expense_App?logo=github">
-    <img src="https://img.shields.io/bower/l/flask">
-</p>
 
 ## Overview
 Introducing Expense Tracker, a powerful expense tracking web application built on Flask. This comprehensive tool is designed
